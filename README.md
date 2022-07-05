@@ -11,4 +11,8 @@ Basically it's all a mess. But if you are interested in digging through this pro
 
 The Content folder contains the assets that are to be loaded into the game. 
 
-That's it. (I may attach a .exe file to properly run the game, once I figure that out.)
+Since it's over 25 mb, and Git won't let me upload it, here's a link to the game:
+https://www.mediafire.com/file/ymm6acu92ynvhjb/Rubik_game.zip/file
+(unarchive then run " ^Rubik's Tablet^ (Game) ")
+
+That's it. (I may attach a proper .exe file to run the game, once I figure that out.)
