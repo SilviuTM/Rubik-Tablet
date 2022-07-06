@@ -14,6 +14,7 @@ The Content folder contains the assets that are to be loaded into the game.
 Since it's over 25 mb, and Git won't let me upload it, here's a link to the game:
 https://www.mediafire.com/file/ymm6acu92ynvhjb/Rubik_game.zip/file (Windows)
 https://www.mediafire.com/file/n06qm9fzlgtuwnt/Rubik_game_osx.zip/file (macOS)
+
 (unarchive then run " ^Rubik's Tablet^ (Game) ")
 
 That's it.
